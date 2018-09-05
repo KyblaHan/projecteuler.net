@@ -7,7 +7,7 @@
     <ProjectGuid>{EBF58C49-E617-4E9D-AEEA-45DB355FA671}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Largest_prime_factor</RootNamespace>
-    <AssemblyName>Largest_prime_factor</AssemblyName>
+    <AssemblyName>Largest prime factor</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
