@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiples of 3 and 5", "Multiples of 3 and 5\Multiples of 3 and 5.csproj", "{C60996E6-C66F-45C8-86C6-746FC4BE30F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Multiples of 3 and 5", "Multiples of 3 and 5\1_Multiples of 3 and 5.csproj", "{C60996E6-C66F-45C8-86C6-746FC4BE30F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Fibonacci numbers", "Even Fibonacci numbers\Even Fibonacci numbers.csproj", "{7888E3E1-C524-456D-8468-4E6303486959}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Even Fibonacci numbers", "Even Fibonacci numbers\3_Even Fibonacci numbers.csproj", "{7888E3E1-C524-456D-8468-4E6303486959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest prime factor", "Largest prime factor\Largest prime factor.csproj", "{EBF58C49-E617-4E9D-AEEA-45DB355FA671}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Largest prime factor", "Largest prime factor\2_Largest prime factor.csproj", "{EBF58C49-E617-4E9D-AEEA-45DB355FA671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Largest palindrome product", "4_Largest palindrome product\4_Largest palindrome product.csproj", "{C7DC8BCE-C991-4EB0-A522-AFBA0D69DB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Smallest multiple", "5_Smallest multiple\5_Smallest multiple.csproj", "{5799CA1E-C319-4C41-9043-1CDC2A561B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Sum square difference", "6_Sum square difference\6_Sum square difference.csproj", "{BCF5308F-7E39-43DF-9807-B3B1D7D13D24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{EBF58C49-E617-4E9D-AEEA-45DB355FA671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBF58C49-E617-4E9D-AEEA-45DB355FA671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBF58C49-E617-4E9D-AEEA-45DB355FA671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DC8BCE-C991-4EB0-A522-AFBA0D69DB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DC8BCE-C991-4EB0-A522-AFBA0D69DB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DC8BCE-C991-4EB0-A522-AFBA0D69DB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DC8BCE-C991-4EB0-A522-AFBA0D69DB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5799CA1E-C319-4C41-9043-1CDC2A561B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5799CA1E-C319-4C41-9043-1CDC2A561B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5799CA1E-C319-4C41-9043-1CDC2A561B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5799CA1E-C319-4C41-9043-1CDC2A561B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF5308F-7E39-43DF-9807-B3B1D7D13D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF5308F-7E39-43DF-9807-B3B1D7D13D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF5308F-7E39-43DF-9807-B3B1D7D13D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF5308F-7E39-43DF-9807-B3B1D7D13D24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\6_Sum square difference\bin\Debug\6_Sum square difference.exe.config
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\6_Sum square difference\bin\Debug\6_Sum square difference.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\6_Sum square difference\bin\Debug\6_Sum square difference.pdb
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\6_Sum square difference\obj\Debug\6_Sum square difference.csprojAssemblyReference.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\6_Sum square difference\obj\Debug\6_Sum square difference.csproj.CoreCompileInputs.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\6_Sum square difference\obj\Debug\6_Sum square difference.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\6_Sum square difference\obj\Debug\6_Sum square difference.pdb

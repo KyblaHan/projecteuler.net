@@ -1,0 +1,7 @@
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\Largest prime factor\bin\Debug\Largest prime factor.exe.config
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\Largest prime factor\bin\Debug\Largest prime factor.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\Largest prime factor\bin\Debug\Largest prime factor.pdb
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\Largest prime factor\obj\Debug\Largest prime factor.csprojAssemblyReference.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\Largest prime factor\obj\Debug\Largest prime factor.csproj.CoreCompileInputs.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\Largest prime factor\obj\Debug\Largest prime factor.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\Largest prime factor\obj\Debug\Largest prime factor.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\4_Largest palindrome product\bin\Debug\4_Largest palindrome product.exe.config
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\4_Largest palindrome product\bin\Debug\4_Largest palindrome product.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\4_Largest palindrome product\bin\Debug\4_Largest palindrome product.pdb
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\4_Largest palindrome product\obj\Debug\4_Largest palindrome product.csprojAssemblyReference.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\4_Largest palindrome product\obj\Debug\4_Largest palindrome product.csproj.CoreCompileInputs.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\4_Largest palindrome product\obj\Debug\4_Largest palindrome product.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\4_Largest palindrome product\obj\Debug\4_Largest palindrome product.pdb
