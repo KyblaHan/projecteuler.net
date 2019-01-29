@@ -1,0 +1,7 @@
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\7_10001st prime\bin\Debug\7_10001st prime.exe.config
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\7_10001st prime\bin\Debug\7_10001st prime.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\7_10001st prime\bin\Debug\7_10001st prime.pdb
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\7_10001st prime\obj\Debug\7_10001st prime.csprojAssemblyReference.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\7_10001st prime\obj\Debug\7_10001st prime.csproj.CoreCompileInputs.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\7_10001st prime\obj\Debug\7_10001st prime.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\7_10001st prime\obj\Debug\7_10001st prime.pdb
