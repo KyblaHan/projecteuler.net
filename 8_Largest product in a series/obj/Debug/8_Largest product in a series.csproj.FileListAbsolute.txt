@@ -1,0 +1,7 @@
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\8_Largest product in a series\bin\Debug\8_Largest product in a series.exe.config
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\8_Largest product in a series\bin\Debug\8_Largest product in a series.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\8_Largest product in a series\bin\Debug\8_Largest product in a series.pdb
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\8_Largest product in a series\obj\Debug\8_Largest product in a series.csprojAssemblyReference.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\8_Largest product in a series\obj\Debug\8_Largest product in a series.csproj.CoreCompileInputs.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\8_Largest product in a series\obj\Debug\8_Largest product in a series.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\8_Largest product in a series\obj\Debug\8_Largest product in a series.pdb

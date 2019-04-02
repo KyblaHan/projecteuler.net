@@ -17,6 +17,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Sum square difference", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_10001st prime", "7_10001st prime\7_10001st prime.csproj", "{996413C5-2DCF-411B-93BB-F67F35F6D16B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Largest product in a series", "8_Largest product in a series\8_Largest product in a series.csproj", "{7FCDAA13-403E-4F5B-B9CC-C4C772DE683D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_Maximum path sum I", "18_Maximum path sum I\18_Maximum path sum I.csproj", "{0B702D9D-9760-4729-8343-AD5155474D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67_Maximum path sum II", "67_Maximum path sum II\67_Maximum path sum II.csproj", "{A8A7A258-EFFD-4C09-92A1-566A7D350E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_Double-base palindromes", "36_Double-base palindromes\36_Double-base palindromes.csproj", "{1E1E580A-204F-4529-9856-3507F1DA549B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "343_Fractional Sequences", "343_Fractional Sequences\343_Fractional Sequences.csproj", "{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +61,26 @@ Global
 		{996413C5-2DCF-411B-93BB-F67F35F6D16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{996413C5-2DCF-411B-93BB-F67F35F6D16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{996413C5-2DCF-411B-93BB-F67F35F6D16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCDAA13-403E-4F5B-B9CC-C4C772DE683D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCDAA13-403E-4F5B-B9CC-C4C772DE683D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCDAA13-403E-4F5B-B9CC-C4C772DE683D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCDAA13-403E-4F5B-B9CC-C4C772DE683D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B702D9D-9760-4729-8343-AD5155474D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B702D9D-9760-4729-8343-AD5155474D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B702D9D-9760-4729-8343-AD5155474D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B702D9D-9760-4729-8343-AD5155474D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A7A258-EFFD-4C09-92A1-566A7D350E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A7A258-EFFD-4C09-92A1-566A7D350E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A7A258-EFFD-4C09-92A1-566A7D350E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A7A258-EFFD-4C09-92A1-566A7D350E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1E580A-204F-4529-9856-3507F1DA549B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1E580A-204F-4529-9856-3507F1DA549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1E580A-204F-4529-9856-3507F1DA549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1E580A-204F-4529-9856-3507F1DA549B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

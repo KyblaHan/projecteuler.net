@@ -1,0 +1,6 @@
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\36_Double-base palindromes\bin\Debug\36_Double-base palindromes.exe.config
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\36_Double-base palindromes\bin\Debug\36_Double-base palindromes.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\36_Double-base palindromes\bin\Debug\36_Double-base palindromes.pdb
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\36_Double-base palindromes\obj\Debug\36_Double-base palindromes.csproj.CoreCompileInputs.cache
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\36_Double-base palindromes\obj\Debug\36_Double-base palindromes.exe
+D:\ProgrammingGit\projecteuler.net\projecteuler.net\36_Double-base palindromes\obj\Debug\36_Double-base palindromes.pdb
