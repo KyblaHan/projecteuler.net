@@ -52,15 +52,15 @@ namespace _8_Largest_product_in_a_series
                 }
             }
 
-            foreach (var VARIABLE in numsList)
-                output13.AddRange(split13(VARIABLE));
+            foreach (var variable in numsList)
+                output13.AddRange(Split13(variable));
 
 
             Int64 answer = 0;
             Int64 tmp;
-            foreach (var VARIABLE in output13)
+            foreach (var variable in output13)
             {
-                tmp = multi(VARIABLE);
+                tmp = Multi(variable);
                 if (tmp > answer)
                     answer = tmp;
                 
@@ -69,7 +69,7 @@ namespace _8_Largest_product_in_a_series
             Console.WriteLine(answer);
         }
 
-        static List<string> split13(string input)
+        static List<string> Split13(string input)
         {
             List<string> output = new List<string>();
 
@@ -81,7 +81,7 @@ namespace _8_Largest_product_in_a_series
             return output;
         }
 
-        static Int64 multi(string input)
+        static Int64 Multi(string input)
         {
             Int64 mult = 1;
             

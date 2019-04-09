@@ -15,43 +15,43 @@ namespace _7_10001st_prime
     {
         static void Main(string[] args)
         {
-            List<int> Tmp = new List<int>();
-            Tmp = sieve(1000000);
+            List<int> tmp = new List<int>();
+            tmp = Sieve(1000000);
 
 
-            Console.WriteLine(Tmp[10001]);
+            Console.WriteLine(tmp[10001]);
         }
-        static List<int> sieve(int n)
+        static List<int> Sieve(int n)
         {
-            List<int> S = new List<int>();
-            List<int> OutList = new List<int>();
+            List<int> s = new List<int>();
+            List<int> outList = new List<int>();
 
-            S.Add(0); // 1 - не простое число
-            S.Add(0); // 1 - не простое число
+            s.Add(0); // 1 - не простое число
+            s.Add(0); // 1 - не простое число
             // заполняем решето единицами
             for (int k = 2; k <= n; k++)
-                S.Add(1);
+                s.Add(1);
 
             for (int k = 2; k * k <= n; k++)
             {
                 // если k - простое (не вычеркнуто)
-                if (S[k] == 1)
+                if (s[k] == 1)
                 {
                     // то вычеркнем кратные k
                     for (int l = k * k; l <= n; l += k)
                     {
-                        S[l] = 0;
+                        s[l] = 0;
                     }
                 }
             }
 
             for (int i = 0; i <= n; i++)
             {
-                if (S[i] == 1)
-                    OutList.Add(i);
+                if (s[i] == 1)
+                    outList.Add(i);
             }
 
-            return OutList;
+            return outList;
         }
     }
 }

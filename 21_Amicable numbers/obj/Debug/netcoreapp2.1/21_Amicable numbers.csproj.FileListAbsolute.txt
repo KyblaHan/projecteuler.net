@@ -1,0 +1,11 @@
+A:\Programming\projecteuler.net\21_Amicable numbers\bin\Debug\netcoreapp2.1\21_Amicable numbers.deps.json
+A:\Programming\projecteuler.net\21_Amicable numbers\bin\Debug\netcoreapp2.1\21_Amicable numbers.runtimeconfig.json
+A:\Programming\projecteuler.net\21_Amicable numbers\bin\Debug\netcoreapp2.1\21_Amicable numbers.runtimeconfig.dev.json
+A:\Programming\projecteuler.net\21_Amicable numbers\bin\Debug\netcoreapp2.1\21_Amicable numbers.dll
+A:\Programming\projecteuler.net\21_Amicable numbers\bin\Debug\netcoreapp2.1\21_Amicable numbers.pdb
+A:\Programming\projecteuler.net\21_Amicable numbers\obj\Debug\netcoreapp2.1\21_Amicable numbers.csprojAssemblyReference.cache
+A:\Programming\projecteuler.net\21_Amicable numbers\obj\Debug\netcoreapp2.1\21_Amicable numbers.csproj.CoreCompileInputs.cache
+A:\Programming\projecteuler.net\21_Amicable numbers\obj\Debug\netcoreapp2.1\21_Amicable numbers.AssemblyInfoInputs.cache
+A:\Programming\projecteuler.net\21_Amicable numbers\obj\Debug\netcoreapp2.1\21_Amicable numbers.AssemblyInfo.cs
+A:\Programming\projecteuler.net\21_Amicable numbers\obj\Debug\netcoreapp2.1\21_Amicable numbers.dll
+A:\Programming\projecteuler.net\21_Amicable numbers\obj\Debug\netcoreapp2.1\21_Amicable numbers.pdb

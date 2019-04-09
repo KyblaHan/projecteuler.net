@@ -1,0 +1,7 @@
+A:\Programming\projecteuler.net\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.exe.config
+A:\Programming\projecteuler.net\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.exe
+A:\Programming\projecteuler.net\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.pdb
+A:\Programming\projecteuler.net\Multiples of 3 and 5\obj\Debug\1_Multiples of 3 and 5.csprojAssemblyReference.cache
+A:\Programming\projecteuler.net\Multiples of 3 and 5\obj\Debug\1_Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+A:\Programming\projecteuler.net\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.exe
+A:\Programming\projecteuler.net\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.pdb

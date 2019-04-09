@@ -1,0 +1,11 @@
+A:\Programming\projecteuler.net\96_Su Doku\bin\Debug\netcoreapp2.1\96_Su Doku.deps.json
+A:\Programming\projecteuler.net\96_Su Doku\bin\Debug\netcoreapp2.1\96_Su Doku.runtimeconfig.json
+A:\Programming\projecteuler.net\96_Su Doku\bin\Debug\netcoreapp2.1\96_Su Doku.runtimeconfig.dev.json
+A:\Programming\projecteuler.net\96_Su Doku\bin\Debug\netcoreapp2.1\96_Su Doku.dll
+A:\Programming\projecteuler.net\96_Su Doku\bin\Debug\netcoreapp2.1\96_Su Doku.pdb
+A:\Programming\projecteuler.net\96_Su Doku\obj\Debug\netcoreapp2.1\96_Su Doku.csproj.CoreCompileInputs.cache
+A:\Programming\projecteuler.net\96_Su Doku\obj\Debug\netcoreapp2.1\96_Su Doku.AssemblyInfoInputs.cache
+A:\Programming\projecteuler.net\96_Su Doku\obj\Debug\netcoreapp2.1\96_Su Doku.AssemblyInfo.cs
+A:\Programming\projecteuler.net\96_Su Doku\obj\Debug\netcoreapp2.1\96_Su Doku.dll
+A:\Programming\projecteuler.net\96_Su Doku\obj\Debug\netcoreapp2.1\96_Su Doku.pdb
+A:\Programming\projecteuler.net\96_Su Doku\obj\Debug\netcoreapp2.1\96_Su Doku.csprojAssemblyReference.cache

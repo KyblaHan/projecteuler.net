@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2003
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Multiples of 3 and 5", "Multiples of 3 and 5\1_Multiples of 3 and 5.csproj", "{C60996E6-C66F-45C8-86C6-746FC4BE30F2}"
 EndProject
@@ -26,6 +26,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_Double-base palindromes", "36_Double-base palindromes\36_Double-base palindromes.csproj", "{1E1E580A-204F-4529-9856-3507F1DA549B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "343_Fractional Sequences", "343_Fractional Sequences\343_Fractional Sequences.csproj", "{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_Amicable numbers", "21_Amicable numbers\21_Amicable numbers.csproj", "{4CCD56BB-15B3-446B-B3CC-A5E7BE5C0206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "96_Su Doku", "96_Su Doku\96_Su Doku.csproj", "{487E6146-966F-4777-A83A-C070B1223EC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F5756DE-449E-48C7-B2E0-E33E56C5B86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCD56BB-15B3-446B-B3CC-A5E7BE5C0206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCD56BB-15B3-446B-B3CC-A5E7BE5C0206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCD56BB-15B3-446B-B3CC-A5E7BE5C0206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCD56BB-15B3-446B-B3CC-A5E7BE5C0206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487E6146-966F-4777-A83A-C070B1223EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487E6146-966F-4777-A83A-C070B1223EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487E6146-966F-4777-A83A-C070B1223EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487E6146-966F-4777-A83A-C070B1223EC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
